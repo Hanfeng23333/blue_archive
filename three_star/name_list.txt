@@ -22,6 +22,7 @@
 宫子(泳装).png
 宫子.png
 小春.png
+小玉(野营).png
 小雪.png
 尼禄.png
 康娜.png
@@ -39,6 +40,7 @@
 时雨.png
 明日奈(兔女郎).png
 星野.png
+晴(野营).png
 晴奈(体操服).png
 晴奈.png
 月咏.png
@@ -75,6 +77,7 @@
 美游.png
 舜(幼女).png
 舜.png
+艾米(泳装).png
 艾米.png
 花凛.png
 花绘(圣诞节).png
